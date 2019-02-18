@@ -6,7 +6,7 @@ A random forest is a meta estimator that fits a number of decision tree classifi
 <img src="https://dsc-spidal.github.io/harp/img/4-5-1.png" width="500px" align="middle"/>
 
 ## Dataset
-Have a look at the dataset [link](https://github.com/ra=jatsharma369007/Spam_Classifier_using_Naive_Bayes/blob/master/SMSSpamCollection)  
+Have a look at the dataset [link](https://github.com/rajatsharma369007/Spam_Classifier_using_Random_Forest/blob/master/SMSSpamCollection)  
 Dataset contains first columns as classification label and second column is the e-mail content.
 
 ## Installation
